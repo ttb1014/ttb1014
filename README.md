@@ -5,6 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href = "https://vk.com/ttb1014" target="_blank">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
